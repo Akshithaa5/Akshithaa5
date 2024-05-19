@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshithaa5
+- 👋 Hi, I’m @Akshitha hebbar
 - 👀 I’m interested in ...Python 
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
