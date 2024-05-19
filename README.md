@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshitha hebbar
-- 👀 I’m interested in ...Python 
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...FrintEnd Development
+- 🌱 I’m currently learning ...React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
